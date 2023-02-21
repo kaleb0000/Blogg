@@ -1,0 +1,18 @@
+#contact iframe
+{
+    width: 100%;
+}
+.JogosHead{
+    font-size: larger;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+.JogosHead i{
+    float: right;
+}
+.youtubers{
+    margin-bottom: 20px;
+    font-size: 23px;
+}
